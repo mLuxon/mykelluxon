@@ -1,0 +1,28 @@
+body{
+font-family: "Arial", "Open Sans Condensed", fantasy;
+color: #48a623;
+}
+h1 {
+font-size: 1.3em;
+text-align: center;
+}
+h2 {
+font-size: 1.0em;
+text-align: left;
+}
+table {
+margin-left: auto;
+margin-right: auto;
+text-align: left;
+border-collapse: collapse;
+}
+tr {
+border: 1px solid ##101d70;
+text-align: center;
+background-color:#f2f7ff;
+}
+th {
+text-align: center;
+color: #48a623;
+background-color: #000000;
+}
